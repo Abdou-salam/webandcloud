@@ -38,9 +38,8 @@ import com.google.appengine.api.datastore.Transaction;
 
 @Api(name = "myApi",
      version = "v1",
-     audiences = "927375242383-t21v9ml38tkh2pr30m4hqiflkl3jfohl.apps.googleusercontent.com",
-  	 clientIds = {"927375242383-t21v9ml38tkh2pr30m4hqiflkl3jfohl.apps.googleusercontent.com",
-        "927375242383-jm45ei76rdsfv7tmjv58tcsjjpvgkdje.apps.googleusercontent.com"},
+     audiences = "697313887948-ccbad2qek74bbm5pa84j1hfg6vl04ni4.apps.googleusercontent.com",
+  	 clientIds = {"697313887948-ccbad2qek74bbm5pa84j1hfg6vl04ni4.apps.googleusercontent.com"},
      namespace =
      @ApiNamespace(
 		   ownerDomain = "helloworld.example.com",
